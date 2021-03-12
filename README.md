@@ -1,3 +1,3 @@
-# docker-for-devs
+# DOcker Devops
 
-Ejemplos para el curso de docker de openwebinars
+Ejemplos de docker
